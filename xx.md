@@ -42,4 +42,12 @@ class A{
    
 接下来是表格   
 姓名 |年龄|性别   
-ouou |26 | 男   
+ouou |26 | 男     
+下面是html标签   
+<table>  
+   <tr>
+       <td>11111</td>
+       <td>22222</td>
+       <td>33333</td>
+    </tr>
+</table>
